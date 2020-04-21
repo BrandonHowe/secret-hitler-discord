@@ -3,3 +3,8 @@
 
 # Node modules
 node_modules
+
+# Other config files
+misc.xml
+module.xml
+shdiscord.iml
