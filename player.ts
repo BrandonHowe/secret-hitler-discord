@@ -1,4 +1,4 @@
-import { Party, Role } from "./roles";
+import { Party, Role } from "./types";
 
 interface Player {
     id: number,
